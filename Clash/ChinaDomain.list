@@ -12,7 +12,7 @@ DOMAIN-SUFFIX,laomo.me
 DOMAIN-SUFFIX,mpyit.com
 DOMAIN-SUFFIX,qupu123.com
 DOMAIN-SUFFIX,researchgate.net
-# DOMAIN-SUFFIX,snov.io
+DOMAIN-SUFFIX,snov.io
 
 # CN域名直连
 DOMAIN-SUFFIX,cn
